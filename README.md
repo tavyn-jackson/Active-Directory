@@ -1,4 +1,4 @@
-<h1>Active Directory Lab - Promote Server</h1>
+<h1>Promote Server / Add AD DS</h1>
 
 <h2>Description</h2>
 This project demonstrates the process of deploying and configuring an Active Directory Domain Service (AD DS) environment on a Windows Server 2022 virtual machine hosted in Oracle VirtualBox. This lab includes promoting a standalone server to a domain controller and adding Active Directory roles and features preparing the foundation for enterprise-level identity and access management. 
@@ -10,7 +10,7 @@ This lab was created to simulate a real-world enterprise envionment using Window
 
 <br />
 
-<h2>Lab Tasl:</h2>
+<h2>Lab Task:</h2>
 - <b>Promote server to domain controller</b>
 <br />
 - <b>Add Active Directory role</b>
@@ -49,15 +49,17 @@ This lab was created to simulate a real-world enterprise envionment using Window
 <br />
 - <b>After logging into admin account, select "Manage"</b>
 <br />
-- <b>Select "Add Roles and Features", wizard window will prompt</b>
+<br />
 <p align="center">
+- <b>Select "Add Roles and Features", wizard window will prompt</b>
   <img src="AddRoles.PNG" height="80%" width="80%" alt="Add Roles"/>
 </p>
 <br />
 - <b>Select "Active Directory Domain Services"</b>
 <br />
-- <b>Finish Install, will require a reboot</b>
+<br />
 <p align="center">
+- <b>Finish Install, will require a reboot</b>
 <img src="InstallRoles.PNG" height="80%" width="80%" alt="Install Roles"/>
 </p>
 
