@@ -30,12 +30,13 @@ This lab was created to simulate a real-world enterprise envionment using Window
 <br />
 - <b>Within Server Manager, select the flag with the alert notification</b>
 <br />
+<br />
+<p align="center">
 - <b>Click "Promote this server to a domain controller"</b>
-<img src="PromoteDC.PNG"
+<img src="PromoteDC.PNG" height="80%" width="80%" alt="Promote server to DC"/>
+</p>
 <br />
 - <b>Select "Active Direco</b>
-<p align="center">
-
   
 </p>
 
