@@ -12,3 +12,6 @@
     - **Active Directory Domain Services**
 - **Install and complete wizard**
 <br />
+
+- **Open Server Manager**
+- **Click Add Roles and Features**
