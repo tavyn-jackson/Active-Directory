@@ -31,7 +31,6 @@ This lab demonstrates the process of promoting a Windows Server virtual machine 
     - 2 core CPU minimum 
 - **Create virtual hard disk**
     - 60 GB+ 
-<br />
 
 <h2>Lab Task 2:</h2>
 <h3>Install Windows Server</h3>
@@ -51,10 +50,6 @@ Inside Windows Server:
     - Subnet: 255.255.255.0
     - Gateway: optional
     - DNS: point to itself (same as the IP)
-
-
-
-
 
 <h2>Lab Task 4:</h2>
 <h3>Rename the Server</h3>
@@ -96,7 +91,7 @@ VM will reboot automatically
 <h2>Verify Domain Controller Setup</h2>
 After reboot: 
 - **Log in using domain**
-    - CORP\Administrator:
+    - CORP\Administrator
     - Password ( Set up in Lab Task 2 ) 
 - **Open Tools**
     - Active Directory
