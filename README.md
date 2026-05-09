@@ -11,13 +11,13 @@ This repository contains multiple Active Directory projects focused on:
 
 <h2>Projects</h2>
 
-Project 1: Promote Server to Domain Controller 
+Project 1: Promote to DC / Add AD DS
 - Install Active Directory Domain Services
 - Promote Windows Server VM to Domain Controller
 - Create new Active Directory domain
 - Configure DNS integration
 - Verify domain controller functionality
 
-(./Promote-DC/README.md)
+[Project 1](https://github.com/tavyn-jackson/Active-Directory/blob/main/Promote-DC/README.md)
 
 
