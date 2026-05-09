@@ -1,8 +1,6 @@
 <h2>Prereqs:</h2>
 <br />
-
-- **Open Server Manager**
-
+- **Set Static IP to the VM IP Address**
 
 <h2>Install Active Directory Domain Services (AD DS)</h2>
 <br />
