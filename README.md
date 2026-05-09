@@ -4,17 +4,11 @@
 
 <h2>Overview</h2>
 This repository contains multiple Active Directory projects focused on:
-<br />
-- <b>Domain setup and configuration</b>
-<br />
-- <b>User and group management</b>
-<br />
-- <b>DNS and DHCP Integration</b>
-<br />
-- <b>System administration labs</b>
-<br />
-- <b>Testing and troubleshooting scenarios</b>
-<br />
+- Domain setup and configuration
+- User and group management
+- DNS and DHCP Integration
+- System administration labs
+- Testing and troubleshooting scenarios
 <br />
 <h2>Projects</h2>
 
