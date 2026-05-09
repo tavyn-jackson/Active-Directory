@@ -30,6 +30,6 @@ Project 1: Promote Server to Domain Controller
 <br />
 - <b>Verify domain controller functionality</b>
 <br />
-[View Project](./Promote-DC/README.md)
+[View Project](Promote-DC/README.md)
 
 
