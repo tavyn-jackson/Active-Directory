@@ -11,7 +11,6 @@ This lab demonstrates the process of promoting a Windows Server virtual machine 
 - **Install and configure AD DS role**
 - **Configure DNS integration for domain services**
 - **Verify successful domain controller deployment**
-<br />
 
 <h2>Environment:</h2>
 
