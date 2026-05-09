@@ -1,4 +1,4 @@
-<h2>Add Active Directory roles and features:</h2>
+<h2>Add Active Directory Roles and Features:</h2>
 <br />
 - <b>Power on PC/Desktop</b>
 <br />
