@@ -27,29 +27,32 @@ This lab was created to simulate a real-world enterprise envionment using Window
 <br />
 - <b>Within Server Manager, select the flag with the alert notification</b>
 <br />
+- <b>Click "Promote this server to a domain controller"</b>
+<br />
 <br />
 <p align="center">
-- <b>Click "Promote this server to a domain controller"</b>
-<img src="Images/PromoteDC.PNG" height="80%" width="80%" alt="Promote server to DC"/>
+<img src="Images/PromoteDC.png" height="80%" width="80%" alt="Promote server to DC"/>
 </p>
 <br />
 - <b>Domain Controller Wizard Window will open</b>
 <br />
 - <b>Add needed roles and features </b>
 <br />
+- <b>Select forest options and set password for adminstrator account</b>
+<br />
 <br />
 <p align="center">
-- <b>Select forest options and set password for adminstrator account</b>
-<img src="Images/DCOptions.PNG" height="80%" width="80%" alt="DC Wizard Window"/>
+<img src="Images/DCOptions.png" height="80%" width="80%" alt="DC Wizard Window"/>
 </p>
 - <b>Confirm remaining settings and click Install </b>
 <br />
 - <b>After domain controller setup is finished, VM will require a restart to promote computer to Domain Controller</b>
 <br />
+- <b>After reboot, login using Administrator username and password created during the Domain Controller Wizard setup </b>
+<br />
 <br />
 <p align="center">
-- <b>After reboot, login using Administrator username and password created during the Domain Controller Wizard setup </b>
-<img src="Images/DCLogin.PNG" height="80%" width="80%" alt="DC Login"/>
+<img src="Images/DCLogin.png" height="80%" width="80%" alt="DC Login"/>
 </p>
 <br />
 <br />
