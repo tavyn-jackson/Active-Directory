@@ -20,7 +20,6 @@ This lab demonstrates the process of promoting a Windows Server virtual machine 
 
 <h2>Lab Task 1:</h2>
 <h3>VM Setup in Windows</h3>
-
 - **Open VirtualBox**
 - **Click New**
 - **Set:**
@@ -37,13 +36,13 @@ This lab demonstrates the process of promoting a Windows Server virtual machine 
 <h3>Install Windows Server</h3>
 - **Attach Windows Server ISO to VM**
 - **Boot VM**
-- **Install:**
-    - Windows Server with Desktop Experience
-- **Complete installation and login as Administrator**
+- **Install**
+    - Windows Server with Desktop Experience 
+- **Complete installation and login as Administrator **
 
 
 <h2>Lab Task 3:</h2>
-<h3>Static IP Configuration </h3>
+<h3>Install Windows Server</h3>
 Inside Windows Server:
 - **Open Network Settings**
 - **Assign:**
@@ -52,8 +51,11 @@ Inside Windows Server:
     - Gateway: optional
     - DNS: point to itself (same as the IP)
 
-<h2>Lab Task 4:</h2>
 
+
+
+
+<h2>Lab Task 4:</h2>
 <h3>Rename the Server</h3>
 - **Open System Properties on Desktop**
 - **Change computer name to**
