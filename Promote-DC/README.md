@@ -76,8 +76,6 @@ Inside Windows Server:
 
 
 <h2>Lab Task 5:</h2>
-<br />
-
 <h3>Install Active Directory Domain Services (AD DS)</h3>
 
 - **Open Server Manager**
