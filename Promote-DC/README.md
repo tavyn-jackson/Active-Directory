@@ -32,6 +32,21 @@ This lab demonstrates the process of promoting a Windows Server virtual machine 
 - **Create virtual hard disk:**
     - Size: 60 GB+ 
 
+<h2>Lab Task 1:</h2>
+<h3>VM Setup in Windows</h3>
+
+- **Open VirtualBox**
+- **Click New**
+- **Set:**
+    - Windows Server
+    - Microsoft Windows Server 
+    - Windows 2022
+- **Allocate**
+    - 4-8 GB RAM
+    - 2 core CPU minimum 
+- **Create virtual hard disk**
+    - 60 GB+ 
+
 <h2>Lab Task 2:</h2>
 <h3>Install Windows Server</h3>
 - **Attach Windows Server ISO to VM**
