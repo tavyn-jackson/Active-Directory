@@ -18,8 +18,7 @@ This lab demonstrates the process of promoting a Windows Server virtual machine 
 - **Windows Server 2022**
 - **Role Services: Active Directory Domain Services, DNS** 
 
-<h2>Lab Task 1:</h2>
-<h3>VM Setup in Windows</h3>
+<h2>VM Setup in Windows</h2>
 - **Open VirtualBox**
 - **Click New**
 - **Set:**
