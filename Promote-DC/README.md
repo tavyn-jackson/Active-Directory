@@ -22,6 +22,8 @@ This lab demonstrates the process of promoting a Windows Server virtual machine 
 <br />
 
 <h2>Lab Task 1:</h2>
+<br />
+
 <h3>VM Setup in Windows</h3>
 <br />
 - **Open VirtualBox**
@@ -35,8 +37,6 @@ This lab demonstrates the process of promoting a Windows Server virtual machine 
     - CPU: 2 cores minimum
 - **Create virtual hard disk:**
     - Size: 60 GB+ (dynamic allocation)
-
-## insert screenshot of vm creation in virtualbox 
 <br />
 
 <h2>Lab Task 2:</h2>
