@@ -17,7 +17,7 @@
 <br />
 - <b>Select:</b>
 <br />
--   <b>Active Directory Domain Services</b>
+    - <b>Active Directory Domain Services</b>
 <br />
 - <b>Install and complete wizard</b>
 <br />
