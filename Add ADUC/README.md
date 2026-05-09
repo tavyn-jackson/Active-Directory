@@ -4,7 +4,7 @@
 <br />
 - <b>Login to PC/Desktop using administrator account username and password</b>
 <br />
-- <b>After logging into admininstrator account, select "Manage"</b>
+- <b>After logging into admininstrator account, select "Manage" on the toolbar</b>
 <br />
 - <b>Select "Add Roles and Features", roles and features selection window will prompt</b>
 <br />
