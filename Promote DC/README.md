@@ -1,4 +1,4 @@
-<h1>Promote Server</h1>
+<h1>Promote to Domain Controller</h1>
 
 <h2>Description</h2>
 This project demonstrates the process of deploying and configuring an Active Directory Domain Service (AD DS) environment on a Windows Server 2022 virtual machine hosted in Oracle VirtualBox. This lab includes promoting a standalone server to a domain controller and adding Active Directory roles and features preparing the foundation for enterprise-level identity and access management. 
