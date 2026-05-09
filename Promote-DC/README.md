@@ -15,4 +15,4 @@
 
 - **Open Server Manager** 
 - **Click Add Roles and Features**
- - **Role-based installations**
+    - **Role-based installations**
