@@ -12,6 +12,6 @@
     - Role-based installation
 - **Choose server**
 - **Select:**
-    - **Active Directory Domain Services**
+    - Active Directory Domain Services
 - **Install and complete wizard**
 
