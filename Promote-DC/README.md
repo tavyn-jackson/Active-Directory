@@ -1,5 +1,5 @@
 <h2>Prereqs:</h2>
-- **Set Static IP on Server**
+- **Set Static IP on the Server**
 <br /> 
 <h2>Install Active Directory Domain Services (AD DS)</h2>
 <br />
