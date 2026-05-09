@@ -25,12 +25,12 @@ This lab demonstrates the process of promoting a Windows Server virtual machine 
 - **Set:**
     - Name: Windows Server 
     - Type: Microsoft Windows Server
-    - Version: Windows 2022 (64-bit) (or 2019)
+    - Version: Windows 2022 
 - **Allocate:**
-    - RAM: 4–8 GB (recommended)
+    - RAM: 4–8 GB 
     - CPU: 2 cores minimum
 - **Create virtual hard disk:**
-    - Size: 60 GB+ (dynamic allocation)
+    - Size: 60 GB+ 
 
 <h2>Lab Task 2:</h2>
 <h3>Install Windows Server</h3>
