@@ -15,3 +15,9 @@
 
 - **Open Server Manager**
 - **Click Add Roles and Features**
+- **Select:**
+ - **Role-based installation*
+- **Choose server**
+- **Select:**
+    - **Active Directory Domain Services**
+- **Install and complete wizard**
