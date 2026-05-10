@@ -46,19 +46,6 @@ This lab demonstrates the process of promoting a Windows Server virtual machine 
 
 <h2>Lab Task 3</h2>
 
-<h3>Install Windows Server</h3>
-
-- **Open Network Settings**
-- **Assign:**
-- **Install**
-    - IP Address: 192.168.10.10 (example)
-    - Subnet: 255.255.255.0
-    - Gateway: optional
-    - DNS: point to itself (same as the IP)
-- **Complete installation and login as Administrator**
-
-<h2>Lab Task 4</h2>
-
 <h3>Rename the Server</h3>
 
 - **Open System Properties on Desktop**
@@ -67,7 +54,7 @@ This lab demonstrates the process of promoting a Windows Server virtual machine 
     - DC1
 - **Restart VM**
 
-<h2>Lab Task 5</h2>
+<h2>Lab Task 4</h2>
 <h3>Install Active Directory Domain Services (AD DS)</h3>
 
 - **Open Server Manager**
@@ -79,7 +66,7 @@ This lab demonstrates the process of promoting a Windows Server virtual machine 
     - Active Directory Domain Services
 - **Install and complete wizard**
 
-<h2>Lab Task 6</h2>
+<h2>Lab Task 5</h2>
 
 <h3>Promote Server to Domain Controller</h3>
 
@@ -96,14 +83,14 @@ After installation:
 
 VM will reboot automatically 
 
-<h2>Lab Task 7</h2>
+<h2>Lab Task 6</h2>
 
 <h3>Verify Domain Controller Setup</h3>
 
 After reboot: 
 - **Log in using domain**
     - CORP\Administrator
-    - Password ( Set up in Lab Task 2 ) 
+    - Password s5 
 - **Open Tools**
     - Active Directory
     - DNS Manager
