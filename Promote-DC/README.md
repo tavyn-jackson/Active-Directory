@@ -1,8 +1,7 @@
 <h1>Promote Server to Domain Controller (VirtualBox Lab) </h2>
-<br /> 
+
 <h2>Overview:</h2> 
 This lab demonstrates the process of promoting a Windows Server virtual machine to a Domain Controller using Active Directory Domain Services (AD DS). The environment is built and tested inside VirtualBox to simulate a real enterprise Active Directory setup.
-<br />
 
 <h2>Objective</h2>
 
@@ -19,6 +18,7 @@ This lab demonstrates the process of promoting a Windows Server virtual machine 
 - **Role Services: Active Directory Domain Services, DNS** 
 
 <h2>VM Setup in Windows</h2>
+
 - **Open VirtualBox**
 - **Click New**
 - **Set:**
@@ -32,31 +32,37 @@ This lab demonstrates the process of promoting a Windows Server virtual machine 
     - 60 GB+ 
 
 <h2>Lab Task 2:</h2>
+
 <h3>Install Windows Server</h3>
+
 - **Attach Windows Server ISO to VM**
 - **Boot VM**
 - **Install**
-    - Windows Server with Desktop Experience 
-- **Complete installation and login as Administrator **
-
+    - Windows Server with Desktop Experience
+- **Complete installation and login as Administrator**
 
 <h2>Lab Task 3:</h2>
+
 <h3>Install Windows Server</h3>
-Inside Windows Server:
+
 - **Open Network Settings**
 - **Assign:**
+- **Install**
     - IP Address: 192.168.10.10 (example)
     - Subnet: 255.255.255.0
     - Gateway: optional
     - DNS: point to itself (same as the IP)
+- **Complete installation and login as Administrator**
 
 <h2>Lab Task 4:</h2>
+
 <h3>Rename the Server</h3>
+
 - **Open System Properties on Desktop**
 - **Change computer name to**
+- **Install**
     - DC1
 - **Restart VM**
-
 
 <h2>Lab Task 5:</h2>
 <h3>Install Active Directory Domain Services (AD DS)</h3>
@@ -87,7 +93,10 @@ After installation:
 
 VM will reboot automatically 
 
-<h2>Verify Domain Controller Setup</h2>
+<h2>Lab Task 7</h2>
+
+<h3>Verify Domain Controller Setup</h3>
+
 After reboot: 
 - **Log in using domain**
     - CORP\Administrator
