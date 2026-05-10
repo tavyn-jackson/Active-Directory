@@ -1,8 +1,8 @@
-<h1>Active Directory Lab & Projects</h1>
+<h1>Virtual Machine Labs & Projects</h1>
 
 <h2>Overview</h2> 
 
-This repository contains multiple Active Directory projects focused on:
+This repository contains multiple virutla machine projects focused on:
 - Domain setup and configuration
 - User and group management
 - DNS and DHCP Integration
@@ -11,7 +11,7 @@ This repository contains multiple Active Directory projects focused on:
 
 <h2>Projects</h2>
 
-Project 1: Promote to DC / Add AD DS
+Project 1: VM Setup /Promote to DC / Add AD DS
 - Install Active Directory Domain Services
 - Promote Windows Server VM to Domain Controller
 - Create new Active Directory domain
