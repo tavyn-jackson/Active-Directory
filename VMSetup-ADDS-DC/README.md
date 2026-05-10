@@ -1,4 +1,4 @@
-<h1>Promote Server to Domain Controller / AD DS </h1>
+<h1>VM Setup / AD DS / Domain Controller </h1>
 
 <h2>Overview:</h2> 
 This lab demonstrates the process of promoting a Windows Server virtual machine to a Domain Controller using Active Directory Domain Services (AD DS). The environment is built and tested inside VirtualBox to simulate a real enterprise Active Directory setup.
