@@ -21,6 +21,8 @@ This lab demonstrates the process of promoting a Windows Server virtual machine 
 
 <h3>VM Setup in Windows</h3>
 
+<img align="right" height="30%" width="60%" src="./Images/VirtualBox Setup.PNG">
+
 - **Open VirtualBox**
 - **Click New**
 - **Set:**
@@ -32,11 +34,15 @@ This lab demonstrates the process of promoting a Windows Server virtual machine 
     - 4-8 GB RAM
     - 2 core CPU minimum 
 - **Create virtual hard disk**
-    - 60 GB+ 
+    - 60 GB+
+  
+<br clear="right"/>
 
 <h2>Lab Task 2</h2>
 
 <h3>Install Windows Server</h3>
+
+<img align="right" height="30%" width="60%" src="./Images/WindowsOSInstall.PNG"> 
 
 - **Attach Windows Server ISO to VM**
 - **Boot VM**
@@ -44,9 +50,13 @@ This lab demonstrates the process of promoting a Windows Server virtual machine 
     - Windows Server with Desktop Experience
 - **Complete installation and login as Administrator**
 
+<br clear="right"/>
+
 <h2>Lab Task 3</h2>
 
 <h3>Rename the Server</h3>
+
+<img align="right" height="30%" width="60%" src="./Images/RenamePC.PNG"> 
 
 - **Open System Properties on Desktop**
 - **Change computer name to**
@@ -54,7 +64,12 @@ This lab demonstrates the process of promoting a Windows Server virtual machine 
     - DC1
 - **Restart VM**
 
+<br clear="right"/>
+
 <h2>Lab Task 4</h2>
+
+<img align="right" height="30%" width="60%" src="./Images/InstallADDS.PNG"> 
+
 <h3>Install Active Directory Domain Services (AD DS)</h3>
 
 - **Open Server Manager**
@@ -66,7 +81,11 @@ This lab demonstrates the process of promoting a Windows Server virtual machine 
     - Active Directory Domain Services
 - **Install and complete wizard**
 
+<br clear="right"/>
+
 <h2>Lab Task 5</h2>
+
+<img align="right" height="30%" width="60%" src="./Images/PromoteDC.PNG"> 
 
 <h3>Promote Server to Domain Controller</h3>
 
@@ -83,7 +102,11 @@ After installation:
 
 VM will reboot automatically 
 
+<br clear="right"/>
+
 <h2>Lab Task 6</h2>
+
+<img align="right" height="30%" width="60%" src="./Images/ConfirmDNS.PNG"> 
 
 <h3>Verify Domain Controller Setup</h3>
 
