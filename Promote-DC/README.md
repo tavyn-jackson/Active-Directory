@@ -24,9 +24,10 @@ This lab demonstrates the process of promoting a Windows Server virtual machine 
 - **Open VirtualBox**
 - **Click New**
 - **Set:**
-    - Windows Server
-    - Microsoft Windows Server 
-    - Windows 2022
+    - VM Name: Windows Server
+    - ISO: Microsoft Windows Server 2022
+    - OS Version: Windows Server 2022
+    - Uncheck "Proceed with Unattended Installation"
 - **Allocate**
     - 4-8 GB RAM
     - 2 core CPU minimum 
