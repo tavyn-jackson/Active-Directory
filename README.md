@@ -19,6 +19,6 @@ Project 1: Promote to DC / Add AD DS
 - Verify domain controller functionality
 
 <p align="center">
- <a href="https://github.com/tavyn-jackson/Active-Directory/blob/main/Promote-DC/README.md">Project 1</a>
+ <a href="https://github.com/tavyn-jackson/Active-Directory/blob/main/VMSetup-ADDS-DC/README.md">Project 1</a>
 </p>
 
