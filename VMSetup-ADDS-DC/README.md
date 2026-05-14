@@ -113,7 +113,7 @@ VM will reboot automatically
 After reboot: 
 - **Log in using domain**
     - CORP\Administrator
-    - Password s5 
+    - Password 
 - **Open Tools**
     - Active Directory
     - DNS Manager
