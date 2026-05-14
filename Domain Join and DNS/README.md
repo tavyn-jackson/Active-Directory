@@ -41,7 +41,7 @@
 
 <h3>Test Network Connectivity</h3>
 
-<img align="right" height="30%" width="60%" src="./Images/PingServerIP.png">
+<img align="right" height="300%" width="60%" src="./Images/PingServerIP.png">
 
 - On the device joining the domain, ping the IP address written down
   - I ran a script that provides ping responses here -> [Ping Server Script](https://github.com/tavyn-jackson/Script-Labs/blob/main/Ping-Server/README.md)
